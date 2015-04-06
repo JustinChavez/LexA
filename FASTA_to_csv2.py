@@ -4,6 +4,7 @@ Created on Tue Feb 24 14:25:49 2015
 
 @author: nikhil
 """
+?SAAS"DfASfdashdflkavhjgfjas
 from __future__ import division
 import os
 #from Bio import SeqIO
